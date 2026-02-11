@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+*.log
+dist/
+build/
+.DS_Store
+__pycache__/
+*.py[cod]
+venv/
+.vscode/
+.idea/
+*.swp
+*.swo
